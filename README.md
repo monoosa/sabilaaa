@@ -202,8 +202,6 @@
    init();
    draw();
    </script>
-</body>
-</html>
 
 <html>
 	<head>
@@ -213,5 +211,4 @@
 			<br><font size="3px">
 			<font color="white">[ </font><marquee scrollamount="5" width="630" height="20" behavior="alternate">Selamat ulang tahun biby. Semoga panjang umur, murah rejeki, dan sehat selalu. love you more and more! mbak paling canci udah 21 !</marquee><font color="white"> ]</font>
 			<br><br><font size="3px" face="Ubuntu Condensed">
-		</body>
 	</font>
