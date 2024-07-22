@@ -20,7 +20,7 @@
    </style>
 </head>
 <body>
-	<h1>Selamat Ulang Tahun Sabila Sayangkuuuu cintaku lop lop</h2>
+	<h1>Selamat Ulang Tahun Sabila Sayangkuuuu cintaku lop lop
    <script>var rnd = Math.random, flr = Math.floor;
    let canvas = document.createElement('canvas');
    
